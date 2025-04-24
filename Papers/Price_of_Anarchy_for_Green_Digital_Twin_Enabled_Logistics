@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+  <meta charset="UTF-8">
+  <title>Il mio paper sulla privacy</title>
+
+  <!-- Google Scholar metadata -->
+  <meta name="citation_title" content="Price of Anarchy for Green Digital Twin Enabled Logistics">
+  <meta name="citation_author" content="Manuele Favero, Chiara Schiavo, Alessandro Buratto and Leonardo Badia">
+  <meta name="citation_pdf_url" content="https://manuelefavero.github.io/Papers/Price_of_Anarchy_for_Green_Digital_Twin_Enabled_Logistics.pdf">
+
+  <!-- Styling opzionale -->
+  <style>
+    body { font-family: sans-serif; max-width: 600px; margin: auto; padding: 2em; }
+  </style>
+</head>
+<body>
+  <h1>Price of Anarchy for Green Digital Twin Enabled Logistics</h1>
+  <p><strong>Authors:</strong>Manuele Favero, Chiara Schiavo, Alessandro Buratto and Leonardo Badia</p>
+  <p><strong>Date:</strong>2025</p>
+
+  <p><a href="Price_of_Anarchy_for_Green_Digital_Twin_Enabled_Logistics.pdf">Download PDF</a></p>
+
+
+</body>
+</html>
